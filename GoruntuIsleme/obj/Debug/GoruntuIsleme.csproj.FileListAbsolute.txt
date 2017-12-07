@@ -1,0 +1,25 @@
+C:\Users\ENAYMAN\source\repos\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe.config
+C:\Users\ENAYMAN\source\repos\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe
+C:\Users\ENAYMAN\source\repos\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.pdb
+C:\Users\ENAYMAN\source\repos\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csprojResolveAssemblyReference.cache
+C:\Users\ENAYMAN\source\repos\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form1.resources
+C:\Users\ENAYMAN\source\repos\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Properties.Resources.resources
+C:\Users\ENAYMAN\source\repos\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.GenerateResource.Cache
+C:\Users\ENAYMAN\source\repos\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.CoreCompileInputs.cache
+C:\Users\ENAYMAN\source\repos\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.exe
+C:\Users\ENAYMAN\source\repos\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.pdb
+C:\Users\ENAYMAN\source\repos\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form2.resources
+C:\Users\ENAYMAN\source\repos\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form3.resources
+C:\Users\Emil Mammadov\Desktop\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe.config
+C:\Users\Emil Mammadov\Desktop\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe
+C:\Users\Emil Mammadov\Desktop\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.pdb
+C:\Users\Emil Mammadov\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csprojResolveAssemblyReference.cache
+C:\Users\Emil Mammadov\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form1.resources
+C:\Users\Emil Mammadov\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form2.resources
+C:\Users\Emil Mammadov\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form3.resources
+C:\Users\Emil Mammadov\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Properties.Resources.resources
+C:\Users\Emil Mammadov\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.GenerateResource.Cache
+C:\Users\Emil Mammadov\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.CoreCompileInputs.cache
+C:\Users\Emil Mammadov\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.exe
+C:\Users\Emil Mammadov\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.pdb
+C:\Users\Emil Mammadov\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form4.resources
